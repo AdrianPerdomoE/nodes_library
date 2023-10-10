@@ -1,0 +1,21 @@
+{
+  "name": "nodes_library",
+  "version": "1.0.0",
+  "description": "A react library so you can create nodes and relations between them",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build && tsc`"
+  },
+  "author": "Adrian David Perdomo Echeverri",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/react": "^18.2.27",
+    "react": "^18.2.0",
+    "typescript": "^5.2.2",
+    "vite": "^4.4.11"
+  },
+  "peerDependencies": {
+    "react": "^18.2.0"
+  }
+}
