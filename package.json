@@ -1,6 +1,6 @@
 {
   "name": "@adrianperdomoe/nodes_library",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "private": false,
   "description": "A react library so you can create nodes and relations between them",
   "main": "dist/index.umd.js",
